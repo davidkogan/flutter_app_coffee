@@ -1,3 +1,3 @@
 # brew_crew
 
-A new Flutter project.
+Building an app using flutter for the first time. Firebase used as the backend.
